@@ -1,0 +1,8 @@
+﻿  testingSorts.cpp
+c:\users\kitja\desktop\kitja_366081_customarray_withsorts\testingsorts.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kitja\desktop\kitja_366081_customarray_withsorts\testingsorts.cpp(101): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kitja\desktop\kitja_366081_customarray_withsorts\testingsorts.cpp(128): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kitja\desktop\kitja_366081_customarray_withsorts\testingsorts.cpp(155): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kitja\desktop\kitja_366081_customarray_withsorts\testingsorts.cpp(182): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CustomArray.vcxproj -> C:\Users\Kitja\Desktop\Kitja_366081_CustomArray_withSorts\Debug\CustomArray.exe
+  CustomArray.vcxproj -> C:\Users\Kitja\Desktop\Kitja_366081_CustomArray_withSorts\Debug\CustomArray.pdb (Partial PDB)
